@@ -1,1 +1,6 @@
 我是一个
+在python中如何将
+一个列表中的数字输出出来
+a = [1,2,3]
+a = ",".join(str(i) for i in a)
+print(a)
