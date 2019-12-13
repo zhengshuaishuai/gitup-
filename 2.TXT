@@ -1,1 +1,14 @@
-Ï²»¶Ò»¸öÈË
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+	<head>
+	    <meta charset="UTF-8"/>
+	    <title>demo</title>
+	<style>
+	          h1{ color:red; }
+	</style>
+	</head>
+	<body>
+		<h1>123</h1>
+	</body>
+</html>
